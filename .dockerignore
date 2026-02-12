@@ -1,0 +1,8 @@
+node_modules
+.nuxt
+.output
+.git
+dist
+README.md
+GEMINI.md
+scraped-data

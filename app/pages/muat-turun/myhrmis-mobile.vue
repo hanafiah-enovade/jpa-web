@@ -98,7 +98,8 @@
                   </div>
                   <h3 class="text-2xl font-bold text-gray-800 mb-2">Apple App Store</h3>
                   <p class="text-sm text-gray-600 mb-6">Untuk peranti iOS 12.0 ke atas</p>
-                  <a href="https://apps.apple.com/my/app/myhrmis/id1234567890" target="_blank" class="block w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold py-4 px-6 rounded-xl transition-colors text-center shadow-lg hover:shadow-xl">
+                  <!-- Note: Update the iOS app store URL with the actual MyHRMIS app ID when available -->
+                  <a href="https://apps.apple.com/my/app/myhrmis" target="_blank" class="block w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold py-4 px-6 rounded-xl transition-colors text-center shadow-lg hover:shadow-xl">
                     <div class="flex items-center justify-center">
                       <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
@@ -208,7 +209,7 @@
                     <svg class="w-5 h-5 text-blue-500 mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                     </svg>
-                    <span class="text-gray-700">Compatible dengan iPhone, iPad dan iPod touch</span>
+                    <span class="text-gray-700">Serasi dengan iPhone, iPad dan iPod touch</span>
                   </li>
                   <li class="flex items-start">
                     <svg class="w-5 h-5 text-blue-500 mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
